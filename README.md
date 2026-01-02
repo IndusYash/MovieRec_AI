@@ -4,7 +4,7 @@ COMPUTER NETWORK PROJECT
 MEMBERS – YASHVARDHAN OJHA AND SAURABH PATEL
 Roll no. - 2023021270 and 2023021253
 Year - Third Year
-
+//Due to the large size of the dataset used for training the model, the dataset could not be uploaded on the github, refer to the zip  file for the dataset.
 🎬 Adaptive Movie Recommender System
 
 Introduction
@@ -85,3 +85,4 @@ Dataset Handling: Safe list/string processing, lowercase normalization, duplicat
 🌍 Vision
 
 Aviation Bay observes airspace; APRE observes cinema. The Adaptive Movie Recommender System aims to become a highly relevant, scalable, and intent-aligned film discovery engine. Users decide what similarity means, while the system ensures retrieval stability, metadata balance, and cinematic relevance.
+
